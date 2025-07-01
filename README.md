@@ -1,5 +1,5 @@
 
-# Práctica Listas Enlanzadas
+# Práctica Sets
 
 ## 📌 Información General
 
