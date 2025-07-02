@@ -60,6 +60,21 @@ Elementos del TreeSet (orden por tamaño descendente)
 [Manzana, Celulas, Celular, Laptop, Pera]
 ```
 
+```plaintext
+        Contactos orden alfabético apellido - nombre
+Contacto [nombre=Pedro, apellido=Gonzales, telefono=123456789] 
+Contacto [nombre=Pedro, apellido=Lopez, telefono=222222222]    
+Contacto [nombre=Ana, apellido=Perez, telefono=987654321]      
+Contacto [nombre=Luis, apellido=Perez, telefono=111111111]     
+        Contactos orden alfabético apellido - nombre - telefono
+Contacto [nombre=Pedro, apellido=Gonzales, telefono=123456789] 
+Contacto [nombre=Pedro, apellido=Lopez, telefono=222222222]    
+Contacto [nombre=Pedro, apellido=Lopez, telefono=123456789]    
+Contacto [nombre=Ana, apellido=Perez, telefono=987654321]      
+Contacto [nombre=Luis, apellido=Perez, telefono=111111111]
+```
+
 ---
 ![image](https://github.com/user-attachments/assets/ada768c6-2fe8-4a5c-94f8-0707393dc728)
+![image](https://github.com/user-attachments/assets/8a8afb43-73b2-407c-a07b-b9f27846f980)
 
