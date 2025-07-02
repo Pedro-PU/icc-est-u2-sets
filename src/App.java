@@ -1,13 +1,17 @@
-import modelo.Sets;
+import controllers.ContactoController;
+import models.Sets;
 
 public class App {
     public static void main(String[] args) throws Exception {
         Sets sets = new Sets();
+        /*
         runHashSet(sets);
         runLinkedHashSet(sets);
         runTreeSet(sets);
-        runComparatorTreeSet(sets);
+        runComparatorTreeSet(sets); 
         runComparatorTreeSetDescendente(sets);
+        */
+        ContactoController cc = new ContactoController();
     }
     public static void runHashSet(Sets sets) {
         System.out.println("--- HashSet ---");
