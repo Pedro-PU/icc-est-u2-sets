@@ -1,4 +1,5 @@
 import controllers.ContactoController;
+import controllers.Ejercicios;
 import models.Sets;
 
 public class App {
@@ -11,7 +12,8 @@ public class App {
         runComparatorTreeSet(sets); 
         runComparatorTreeSetDescendente(sets);
         */
-        ContactoController cc = new ContactoController();
+        //ContactoController cc = new ContactoController();
+        Ejercicios ej = new Ejercicios();
     }
     public static void runHashSet(Sets sets) {
         System.out.println("--- HashSet ---");
