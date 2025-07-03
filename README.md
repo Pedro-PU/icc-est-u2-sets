@@ -87,6 +87,8 @@ camaleón es isogramo = true
 
 ---
 ![image](https://github.com/user-attachments/assets/ada768c6-2fe8-4a5c-94f8-0707393dc728)
+
 ![image](https://github.com/user-attachments/assets/8a8afb43-73b2-407c-a07b-b9f27846f980)
+
 ![image](https://github.com/user-attachments/assets/7691b040-5bd6-48bb-ada7-964c535c32db)
 
